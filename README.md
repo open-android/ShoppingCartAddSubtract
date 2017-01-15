@@ -74,21 +74,21 @@
 > 支持更多的自定义属性XML表示
 
     <com.bigkoo.snappingstepper.SnappingStepper
-	      android:id="@+id/stepperCustom2"
-	      stepper:max="200"
-	      stepper:min="50"
-	      stepper:step="5"
-	      stepper:value="100"
-	      android:layout_width="150dp"
-	      android:layout_height="40dp"
-	      stepper:stepper_background="@color/colorStepperButtonNormal"
-	      stepper:stepper_leftButtonBackground="@drawable/sl_steppercustom_button_bg"
-	      stepper:stepper_rightButtonBackground="@drawable/sl_steppercustom_button_bg"
-	      stepper:stepper_contentBackground="@color/colorStepperContentBg"
-	      stepper:stepper_contentTextColor="#0099ff"
-	      stepper:stepper_contentTextSize="18"
-	      stepper:stepper_leftButtonResources="@drawable/ic_stepper_left"
-	      stepper:stepper_rightButtonResources="@drawable/ic_stepper_right"
+	  android:id="@+id/stepperCustom2"
+	  stepper:max="200"
+	  stepper:min="50"
+	  stepper:step="5"
+	  stepper:value="100"
+	  android:layout_width="150dp"
+	  android:layout_height="40dp"
+	  stepper:stepper_background="@color/colorStepperButtonNormal"
+	  stepper:stepper_leftButtonBackground="@drawable/sl_steppercustom_button_bg"
+	  stepper:stepper_rightButtonBackground="@drawable/sl_steppercustom_button_bg"
+	  stepper:stepper_contentBackground="@color/colorStepperContentBg"
+	  stepper:stepper_contentTextColor="#0099ff"
+	  stepper:stepper_contentTextSize="18"
+	  stepper:stepper_leftButtonResources="@drawable/ic_stepper_left"
+	  stepper:stepper_rightButtonResources="@drawable/ic_stepper_right"
       />
 
 > 支持更多的自定义属性java代码表示
