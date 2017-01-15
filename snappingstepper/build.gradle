@@ -5,6 +5,7 @@ apply plugin: 'com.github.dcendents.android-maven'//固定不变
 group='com.github.open-android'//itcastsh：github账号
 version = "1.0.2"
 
+
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
