@@ -71,6 +71,7 @@
 ---
 
 * 注意细节
+
 > 支持更多的自定义属性XML表示
 
     <com.bigkoo.snappingstepper.SnappingStepper
