@@ -110,6 +110,6 @@
 * 详细的使用方法在DEMO里面都演示啦,如果你觉得这个库还不错,请赏我一颗star吧~~~
 
 
-欢迎关注微信公众号
+* 欢迎关注微信公众号
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
